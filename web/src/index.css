@@ -13,7 +13,7 @@
 
   /* Dark mode */
   html.dark {
-    @apply bg-gray-900 text-gray-100;
+    @apply bg-gray-900 text-black;
   }
 
   /* Apply to all common elements */
